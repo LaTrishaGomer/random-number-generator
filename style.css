@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: bisque;
+}
+
+.h1{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #141212;
+    font-family: Verdana, Geneva, Tahoma, sans-serif 
+}
+
+#myButton{
+    font-size: 15px;
+    padding: 5px 25px;
+    border-radius: 10px;
+    color: antiquewhite;
+    background-color: cadetblue;
+    border: 0px;
+}
+
+#labelContainer{
+    text-align: center;
+}
+
+.myLabels{
+    font-size: 15px;
+    color:black;
+}
